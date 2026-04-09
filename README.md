@@ -19,3 +19,5 @@ This repository used as Portofolio Project given by 100Hires
 ## Issues Encountered and Solutions
 * **Issue:** When trying to clone the repository using the command palette in Cursor (`Ctrl+Shift+P`), the `Git: Clone` command did not appear. 
 * **Solution:** I realized that Git was not installed on my Windows machine. I solved this by downloading and installing the 64-bit Git for Windows from the official website. After the installation was complete, I completely restarted Cursor IDE. The `Git: Clone` command then successfully appeared and functioned as expected.
+* * **Issue 2:** When trying to make the first commit, I received an error stating `Make sure you configure your "user.name" and "user.email" in git.`
+* **Solution 2:** I opened the integrated terminal in Cursor and configured my global Git identity using the `git config --global user.name` and `git config --global user.email` commands. After setting this up, the commit went through successfully.
