@@ -6,12 +6,12 @@ from apify_client import ApifyClient
 load_dotenv()
 APIFY_TOKEN = os.getenv('APIFY_API_TOKEN')
 if not APIFY_TOKEN:
-    print("ERROR: APIFY_API_TOKEN tidak ditemukan di file .env!")
+    print("ERROR: APIFY_API_TOKEN not found in .env!")
     exit()
 client = ApifyClient(APIFY_TOKEN)
 
 def scrape_linkedin_posts(linkedin_url, author_name):
-    print(f"Memulai misi scraping LinkedIn untuk: {author_name}...")
+    print(f"scraping LinkedIn profile for: {author_name}...")
 
     run_input = {
         "urls": [linkedin_url],
