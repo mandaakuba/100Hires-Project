@@ -26,7 +26,7 @@ Volume is irrelevant if the signal is weak. I intentionally ignored generic mark
 
 5. Ethan Smith (Graphite): Smith solves the hardest problem in AI content: the "sea of sameness." LLMs are designed to summarize, meaning they ignore derivative content. I included Smith because his strategy relies on strict information gain. By injecting unique metadata, leveraging off-site user-generated content like Reddit, and optimizing video abstractions, he provides a blueprint to ensure our content is novel enough to be cited.
 
-6. Eric Siu (Leveling Up): Siu provides the operational blueprint for "Search Everywhere Optimization." I selected his transcript because he bridges the gap between strategy and execution. He demonstrates how to deploy AI agents not just to write, but to automate the heavy lifting of technical SEO—programmatic internal linking, identifying high-intent long-tail gaps, and executing rapid content pruning.
+6. Eric Siu (Leveling Up): Siu provides the operational blueprint for "Search Everywhere Optimization." I selected his transcript because he bridges the gap between strategy and execution. He demonstrates how to deploy AI agents not just to write, but to automate the heavy lifting of technical SEO programmatic internal linking, identifying high-intent long-tail gaps, and executing rapid content pruning.
 
 7. Neil Patel (NP Digital): Patel grounds the theoretical AI concepts into structural realities. AI models are scanners. I included his framework because he clearly maps the evolution of E-E-A-T into the AI era. To get cited, content must be spoon-fed to the machines using explicit formatting: short paragraphs, bullet points, and rigorous schema markups that act as a "nutrition label" for LLMs.
 
