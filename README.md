@@ -3,7 +3,7 @@
 ## The Paradigm Shift in B2B Growth
 We are standing at the edge of a massive structural shift in how information is retrieved. The era of the ten blue links is quietly ending. Search engines are rapidly evolving into answer engines.
 
-For B2B SaaS, this creates a phenomenon known as the "Great Decoupling"—where impressions skyrocket but actual website clicks plummet. Users no longer need to visit our landing pages to get definitional answers; the AI summarizes it for them in seconds. If we continue to play by the legacy rules of keyword stuffing and traditional traffic acquisition, we will lose. 
+For B2B SaaS, this creates a phenomenon known as the "Great Decoupling" where impressions skyrocket but actual website clicks plummet. Users no longer need to visit our landing pages to get definitional answers; the AI summarizes it for them in seconds. If we continue to play by the legacy rules of keyword stuffing and traditional traffic acquisition, we will lose. 
 
 The new goal is no longer to be the destination. The new goal is to be the cited source. 
 
@@ -48,11 +48,11 @@ Vasco addresses the existential threat of automated content penalization. I incl
 ## Repository Structure
 
 /research
-  ├── /youtube-transcripts/      # Raw extracted transcripts in Markdown
-  ├── /linkedin-posts/           # Placeholder for secondary channel scraping
-  ├── /other/                    # Supporting documentation and API logs
-  └── sources.md                 # Curated list of all experts and source links
-script.py                        # The automated API extraction script
+  ├── /youtube-transcripts/      
+  ├── /linkedin-posts/           
+  ├── /other/                    
+  └── sources.md                 
+script.py                       
 
 ## Next Steps
 The raw intelligence has been gathered. The next phase is synthesis. I will parse these transcripts to extract the specific prompt architectures, schema deployment rules, and off-site citation tactics required to build a finalized, deployable SOP as you mentioned on your email massage before.
