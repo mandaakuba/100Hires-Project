@@ -30,7 +30,7 @@ This document contains the curated list of 10 high-signal experts selected for t
 * **Source Type:** Youtube Interview
 * **Link:** https://www.youtube.com/watch?v=xAXy8xz-hao
 * **Date Analyzed:** April 2026
-* **Annotation:** Smith addresses the "sea of sameness" in LLM outputs. He provides a blueprint for strict information gain—injecting unique metadata, leveraging off-site user-generated content, and optimizing video abstractions to force AI citations.
+* **Annotation:** Smith addresses the "sea of sameness" in LLM outputs. He provides a blueprint for strict information gain injecting unique metadata, leveraging off-site user-generated content, and optimizing video abstractions to force AI citations.
 
 ## 6. Eric Siu (Leveling Up)
 * **Source Type:** Youtube Video
