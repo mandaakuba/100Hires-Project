@@ -3,7 +3,7 @@
 This document contains the curated list of 10 high-signal experts selected for the Answer Engine Optimization (AEO) playbook research. These practitioners were chosen because they actively build and execute AI SEO strategies, rather than just theorizing.
 
 ## 1. Kevin Indig (Growth Advisor, ex-Shopify/G2)
-* **Source Type:** Youtube Interview (The Search Session)
+* Source Type: Youtube Interview (The Search Session)
 * **Link:** https://www.youtube.com/watch?v=AqAoKGftsSE&t=1722s
 * **Date Analyzed:** April 2026
 * **Annotation:** Indig provides a macro-architectural view of AI search. His insights reveal how LLMs function as sophisticated online reputation management surfaces, emphasizing that offline visibility and brand entities are now critical ranking factors for agentic search.
