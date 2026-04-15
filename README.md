@@ -48,6 +48,7 @@ Vasco addresses the existential threat of automated content penalization. I incl
 ## Repository Structure
 
 /research
+
   ├── /youtube-transcripts/      
   ├── /linkedin-posts/           
   ├── /other/                    
