@@ -57,5 +57,6 @@ This document contains the curated list of 10 high-signal experts selected for t
 * **Annotation:** Vasco focuses on the "Human Touch" necessary to avoid AI spam penalties. He details how editorial transparency, clear authorship, and proofing mechanisms act as massive algorithmic trust signals.
 
 ## 10. Steven Schneider (Founder, TrioSEO)
-* **Source Type:** YouTube / Strategic Interviews
+* **Source Type:** YouTube Podcast
+* **Link: https://www.youtube.com/watch?v=lfnLUCiLugY
 * **Annotation:** Schneider provides a practitioner's look at scaling AI-driven content without sacrificing quality. He shares frameworks for streamlining SEO workflows and using AI to maintain high search visibility in competitive B2B niches.
