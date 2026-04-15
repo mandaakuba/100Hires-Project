@@ -1,0 +1,58 @@
+# Research Project: AI-Powered SEO Content Production for B2B SaaS
+
+## The Paradigm Shift in B2B Growth
+We are standing at the edge of a massive structural shift in how information is retrieved. The era of the ten blue links is quietly ending. Search engines are rapidly evolving into answer engines.
+
+For B2B SaaS, this creates a phenomenon known as the "Great Decoupling"—where impressions skyrocket but actual website clicks plummet. Users no longer need to visit our landing pages to get definitional answers; the AI summarizes it for them in seconds. If we continue to play by the legacy rules of keyword stuffing and traditional traffic acquisition, we will lose. 
+
+The new goal is no longer to be the destination. The new goal is to be the cited source. 
+
+This repository serves as the foundational research to build a new, scalable Answer Engine Optimization (AEO) playbook. The objective is to force Large Language Models (LLMs) like ChatGPT, Gemini, and Perplexity to use our brand as their primary training data and trusted citation.
+
+## Methodology
+To build a system that works, we cannot rely on theoretical fluff. I built an automated extraction pipeline using Python and APIs to pull raw, unfiltered transcripts directly from the practitioners who are actively re-engineering SEO for the AI age. The data was programmatically cleaned, formatted, and stored in this repository to allow for rapid pattern recognition and synthesis.
+
+## The 10 High-Signal Experts
+Volume is irrelevant if the signal is weak. I intentionally ignored generic marketing bloggers who simply regurgitate outdated advice. The ten voices curated below are technical practitioners, agency founders, and growth operators. I selected them based on the hard data, frameworks, and contrarian truths they revealed in their transcripts.
+
+**1. Kevin Indig (Growth Advisor, ex-Shopify/G2)**
+Indig provides the macro-architectural view of AI search. I selected his insights because he correctly identifies LLMs as highly sophisticated online reputation management surfaces. His strategy focuses on "context engineering"—ensuring that every sub-domain, help center, and digital footprint feeds the AI the exact narrative we want it to learn.
+
+**2. Gianluca Fiorelli (International SEO Consultant)**
+As a technical counterpart to Indig, Fiorelli highlights the immediate shift toward entity recognition. His transcript reveals how brand filters in search console now operate as entity validators. I included him because he proves that true AI optimization requires an omnichannel approach, where offline visibility and external brand presence directly influence AI recommendations.
+
+**3. Sam Oh (Ahrefs)**
+Oh brings rigorous, large-scale data to the table. His analysis of 25 million AI overviews shatters old assumptions. I selected him for his actionable framework on Generative Engine Optimization (GEO). He proves that semantic HTML structure (tree walking algorithms), content freshness for RAG (Retrieval-Augmented Generation) models, and off-site branded mentions are the absolute strongest correlation factors for AI visibility.
+
+**4. Bernard Huang (Clearscope)**
+Huang offers the definitive tactical playbook for AEO. Traditional keyword research is dead; Huang replaces it with "prompt tracking." I included his transcript because he decodes the AI validation layer—explaining exactly how to intercept an AI agent while it performs live web searches, forcing the model to cite our brand by answering the specific, low-volume queries the AI itself is researching.
+
+**5. John-Henry Scherck (Growth Plays)**
+Scherck brings a ruthless, revenue-focused reality check. While others panic over lost traffic, Scherck points out that AI is simply filtering out unqualified, top-of-funnel readers. I selected his perspective because he anchors the strategy in humanity and trust. He proves that focusing on deep, "jobs-to-be-done" content for specific ICPs drives actual pipeline, even when overall traffic drops.
+
+**6. Ethan Smith (Graphite)**
+Smith solves the hardest problem in AI content: the "sea of sameness." LLMs are designed to summarize, meaning they ignore derivative content. I included Smith because his strategy relies on strict information gain. By injecting unique metadata, leveraging off-site user-generated content like Reddit, and optimizing video abstractions, he provides a blueprint to ensure our content is novel enough to be cited.
+
+**7. Eric Siu (Leveling Up)**
+Siu provides the operational blueprint for "Search Everywhere Optimization." I selected his transcript because he bridges the gap between strategy and execution. He demonstrates how to deploy AI agents not just to write, but to automate the heavy lifting of technical SEO—programmatic internal linking, identifying high-intent long-tail gaps, and executing rapid content pruning.
+
+**8. Neil Patel (NP Digital)**
+Patel grounds the theoretical AI concepts into structural realities. AI models are scanners. I included his framework because he clearly maps the evolution of E-E-A-T into the AI era. To get cited, content must be spoon-fed to the machines using explicit formatting: short paragraphs, bullet points, and rigorous schema markups that act as a "nutrition label" for LLMs.
+
+**9. Nico (AI Ranking)**
+Nico focuses on the aggressive, programmatic execution of AI SEO. His transcript details the exact transition from being a click-destination to a cited source. I selected his insights for his highly systematic approach to structuring website architecture and using raw API data to map transactional versus informational intent, ensuring the site hierarchy aligns perfectly with how AI crawls.
+
+**10. Vasco (Vasco's SEO Tips)**
+Vasco addresses the existential threat of automated content penalization. I included his insights because he provides the exact fail-safes needed when scaling AI production. He details the necessity of the "Human Touch"—proving that injecting editorial transparency, fact-checker bios, and clear author credentials act as the ultimate algorithmic trust signals to separate high-value automation from pure spam.
+
+## Repository Structure
+
+/research
+  ├── /youtube-transcripts/      # Raw extracted transcripts in Markdown
+  ├── /linkedin-posts/           # Placeholder for secondary channel scraping
+  ├── /other/                    # Supporting documentation and API logs
+  └── sources.md                 # Curated list of all experts and source links
+script.py                        # The automated API extraction script
+
+## Next Steps
+The raw intelligence has been gathered. The next phase is synthesis. I will parse these transcripts to extract the specific prompt architectures, schema deployment rules, and off-site citation tactics required to build a finalized, deployable SOP for the marketing team.
