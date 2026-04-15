@@ -16,16 +16,16 @@ To build a system that works, we cannot rely on theoretical fluff. I built an au
 Volume is irrelevant if the signal is weak. I intentionally ignored generic marketing bloggers who simply regurgitate outdated advice. The ten voices curated below are technical practitioners, agency founders, and growth operators. I selected them based on the hard data, frameworks, and contrarian truths they revealed in their transcripts.
 
 **1. Kevin Indig (Growth Advisor, ex-Shopify/G2)**
-Indig provides the macro-architectural view of AI search. I selected his insights because he correctly identifies LLMs as highly sophisticated online reputation management surfaces. His strategy focuses on "context engineering"—ensuring that every sub-domain, help center, and digital footprint feeds the AI the exact narrative we want it to learn.
+Indig provides the macro-architectural view of AI search. I selected his insights because he correctly identifies LLMs as highly sophisticated online reputation management surfaces. His strategy focuses on "context engineering" ensuring that every sub-domain, help center, and digital footprint feeds the AI the exact narrative we want it to learn.
 
 **2. Gianluca Fiorelli (International SEO Consultant)**
 As a technical counterpart to Indig, Fiorelli highlights the immediate shift toward entity recognition. His transcript reveals how brand filters in search console now operate as entity validators. I included him because he proves that true AI optimization requires an omnichannel approach, where offline visibility and external brand presence directly influence AI recommendations.
 
 **3. Sam Oh (Ahrefs)**
-Oh brings rigorous, large-scale data to the table. His analysis of 25 million AI overviews shatters old assumptions. I selected him for his actionable framework on Generative Engine Optimization (GEO). He proves that semantic HTML structure (tree walking algorithms), content freshness for RAG (Retrieval-Augmented Generation) models, and off-site branded mentions are the absolute strongest correlation factors for AI visibility.
+Oh brings rigorous, large-scale data to the table. His analysis of 25 million AI overviews shatters old assumptions. I selected him for his actionable framework on Generative Engine Optimization (GEO). He proves that semantic HTML structure (tree walking algorithms), content freshness for RAG (Retrieval-Augmented Generation) models, and off site branded mentions are the absolute strongest correlation factors for AI visibility.
 
 **4. Bernard Huang (Clearscope)**
-Huang offers the definitive tactical playbook for AEO. Traditional keyword research is dead; Huang replaces it with "prompt tracking." I included his transcript because he decodes the AI validation layer—explaining exactly how to intercept an AI agent while it performs live web searches, forcing the model to cite our brand by answering the specific, low-volume queries the AI itself is researching.
+Huang offers the definitive tactical playbook for AEO. Traditional keyword research is dead; Huang replaces it with "prompt tracking." I included his transcript because he decodes the AI validation layer that explaininh exactly how to intercept an AI agent while it performs live web searches, forcing the model to cite our brand by answering the specific, low-volume queries the AI itself is researching.
 
 **5. John-Henry Scherck (Growth Plays)**
 Scherck brings a ruthless, revenue-focused reality check. While others panic over lost traffic, Scherck points out that AI is simply filtering out unqualified, top-of-funnel readers. I selected his perspective because he anchors the strategy in humanity and trust. He proves that focusing on deep, "jobs-to-be-done" content for specific ICPs drives actual pipeline, even when overall traffic drops.
@@ -43,7 +43,7 @@ Patel grounds the theoretical AI concepts into structural realities. AI models a
 Nico focuses on the aggressive, programmatic execution of AI SEO. His transcript details the exact transition from being a click-destination to a cited source. I selected his insights for his highly systematic approach to structuring website architecture and using raw API data to map transactional versus informational intent, ensuring the site hierarchy aligns perfectly with how AI crawls.
 
 **10. Vasco (Vasco's SEO Tips)**
-Vasco addresses the existential threat of automated content penalization. I included his insights because he provides the exact fail-safes needed when scaling AI production. He details the necessity of the "Human Touch"—proving that injecting editorial transparency, fact-checker bios, and clear author credentials act as the ultimate algorithmic trust signals to separate high-value automation from pure spam.
+Vasco addresses the existential threat of automated content penalization. I included his insights because he provides the exact fail-safes needed when scaling AI production. He details the necessity of the "Human Touch" proving that injecting editorial transparency, fact-checker bios, and clear author credentials act as the ultimate algorithmic trust signals to separate high-value automatiom from pure spam.
 
 ## Repository Structure
 
@@ -54,6 +54,16 @@ Vasco addresses the existential threat of automated content penalization. I incl
   ├── /other/                    
   └── sources.md                 
 script.py                       
+
+## Technical Evaluation: The LinkedIn API Dilemma
+
+To demonstrate multi-channel data extraction, I built a secondary automated scraper using the Apify Headless Browser API to extract recent LinkedIn posts from the targeted experts (sample extractions are available in `/research/linkedin-posts/`).
+
+However, after review, the extracted data, I made a strategic decision to disqualify automated LinkedIn scraping as a primary data source for what you've requested. Here is why:
+
+1. LinkedIn's aggressive anti-bot infrastructure means most scalable APIs can only reliably extract raw plain text. In the B2B SEO space, the actual value of a LinkedIn post is heavily embedded in rich media (PDF carousels, data charts, and video). The API strips these elements out, leaving the text contextually empty and practically useless for building any other needs we're looking for.
+2. The only way to capture that missing visual context is through manual extraction. Relying on manual data entry to compensate for API limitations is a critical failure in efficiency and is completely unscalable, I guess.
+
 
 ## Next Steps
 The raw intelligence has been gathered. The next phase is synthesis. I will parse these transcripts to extract the specific prompt architectures, schema deployment rules, and off-site citation tactics required to build a finalized, deployable SOP as you mentioned on your email massage before.
