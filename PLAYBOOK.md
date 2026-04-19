@@ -5,7 +5,6 @@
 
 This playbook is designed specifically for 100hires to transition from traditional volume-based SEO to **Generative Engine Optimization (GEO)**. The focus is on building brand authority, leveraging internal data for "Information Gain," and optimizing for high-intent Bottom-of-Funnel (BoFu) conversions.
 
----
 
 ## 1. The Core Playbook / SOP
 
@@ -23,7 +22,6 @@ This playbook is designed specifically for 100hires to transition from tradition
 2. **Execute a "Surround Sound" Strategy:** Do not rely solely on the internal blog. Distribute our unique insights and get brand mentions on UGC platforms like Reddit, Quora, and G2. AI engines seek consensus and social validation from these platforms (source: Ethan Smith, [link to video from DD.MM.YYYY]).
 3. **Amplify Omnichannel Signals:** Repurpose winning blog articles into video (YouTube) or audio (Podcast) formats. AI algorithms pull training data from across the web, not just text formats (source: Eric Siu, [link to video from DD.MM.YYYY]).
 
----
 
 ## 2. Where Experts Disagree
 
@@ -42,7 +40,6 @@ This playbook is designed specifically for 100hires to transition from tradition
 * **What Author B recommends:** Ethan Smith argues that LLMs do not care much about your own blog; they look for consensus from User-Generated Content (UGC) sites. He recommends getting mentioned on Reddit and Quora.
 * **Which side I take and why:** I take **Ethan Smith's** side (with modifications). In the AI era, search engines act as answer engines looking for social validation. If AI sees 100hires recommended by real HR practitioners on Reddit or G2, it will confidently recommend us. Ahrefs' technical optimization is necessary as a baseline, but UGC "Surround Sound" is the real growth lever for B2B.
 
----
 
 ## 3. What I Rejected and Why
 
@@ -52,7 +49,6 @@ This playbook is designed specifically for 100hires to transition from tradition
 **2. Completely Abandoning Top-of-Funnel (ToFu) Content (John-Henry Scherck)**
 * **Reason for rejection:** While focusing on BoFu/MoFu is great for conversions, completely killing the ToFu strategy is a fatal mistake for a growing startup. 100hires still needs ToFu content (e.g., "Recruitment Trends 2026") for brand awareness, retargeting pixels, and earning backlinks. The solution is not to abandon ToFu, but to inject it with internal data so it cannot be replicated by competitors.
 
----
 
 ## 4. My Original Ideas
 
@@ -66,7 +62,6 @@ Most experts suggest using AI for text production efficiency. However, purely AI
 
 **Why it works:** Because the raw material comes from real human conversations detailing frustrations with traditional recruitment, the resulting article will have a "soul" and empathy that competitors' AI cannot fake. LLMs are hungry for this specific, original data. When a user asks an AI search engine, *"Is 100hires Pro worth it for small business?"*, the AI will directly cite our article because we are the only entity documenting these real-world pain points comprehensively.
 
----
 
 ## 5. Weaknesses of This Playbook
 
@@ -92,7 +87,7 @@ Nico recommends using Programmatic SEO to automatically generate hundreds of art
 
 ---
 
-### 🚀 Bonus: First 14 Days Execution Plan (If Implemented)
+### Bonus: First 14 Days Execution Plan (If Implemented)
 If this playbook is greenlit today, here is my pragmatic approach for the first two weeks to validate the strategy:
 * **Day 1-3 (Audit):** Audit the top 20 highest-traffic, lowest-converting articles on the 100hires blog to find gaps where we can inject real use-case data.
 * **Day 4-7 (Internal Alignment):** Request permission from the Sales/CS team to access 3 recent onboarding recordings of Pro plan clients.
